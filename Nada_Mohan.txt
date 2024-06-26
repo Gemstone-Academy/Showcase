@@ -1,0 +1,134 @@
+﻿What It Means to Engage in Insurrection: A Synthesis of the Debate Over Definition 
+
+
+Nadaroopa Saraswathi Mohan '26
+
+
+Spring 2024
+________________
+
+
+
+
+Abstract
+Section 3 of the Fourteenth Amendment to the Constitution is an immensely important provision, but had not been considered thoroughly in legal discourse until the events of January 6, 2021. Former president Donald Trump’s alleged involvement in the January 6th Insurrection raises important questions about what the phrase “engaging in insurrection” in Section 3 of the Fourteenth Amendment means. This paper delves into the historical background of Section 3, examines some purported definitions for “engaging in insurrection,” and applies such definitions to Donald Trump’s actions on and leading up to January 6th. While this paper synthesizes a portion of the debate surrounding Section 3, it is by no means a complete analysis of every issue present in the text. Further consideration of the matter is beyond the bounds of this paper, but should consider whether the president is an officer of the United States and whether Section 3 is self-enacting. The determination of whether or not Donald Trump engaged in insurrection is more complicated than it seems, but careful analysis of Section 3 is necessary to ensure that all candidates seeking office in the 2024 presidential election are eligible for office. 
+
+
+I. Introduction
+In light of the imminent 2024 presidential election’s rematch between President Joseph Biden and former President Donald Trump, the question of eligibility for office based on Section 3 of the Fourteenth Amendment has greater weight than ever. On January 6th, 2020, Trump addressed a crowd of supporters at the Ellipse, where he repeated earlier claims that the election had been “stolen” from him. He also urged his supporters to march to the Capitol to prevent a joint session of the United States Congress from affirming the Electoral Ballot count, saying, “If you don’t fight like hell, you’re not going to have a country anymore.” In the same speech, he said, “I know that everyone here will soon be marching over to the Capitol building to peacefully and patriotically make your voices heard.” [1] Trump’s supporters then marched to the Capitol and broke into the building, causing members of Congress to shelter in a safe place. [2]
+Since the January 6th Riot, the former president has been heavily criticized for his role. His political opponents have argued that his words incited the actions of the rioters who breached the Capitol and threatened members of Congress. His political supporters have argued that Trump has no responsibility for the attack. Since the beginning of the 2024 election cycle, the word “insurrection” has been thrown around frequently. Trump's political opponents have argued that the January 6th Riot was an insurrection, that Trump engaged in insurrection, and that he is thereby disqualified from office according to Section 3 of the Fourteenth Amendment, which is as follows:
+>>No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability. [3] 
+The question of whether or not Donald Trump engaged in insurrection is complicated for several reasons. Historical context makes the meaning of certain phrases within Section 3 of the Fourteenth Amendment unclear, and there are several unresolved issues with regard to the text’s applicability to the events that transpired on January 6th. These include whether the president is considered an officer of the United States, whether January 6th was an insurrection, and what actions constitute “engaging in insurrection.” To answer any of these questions, however, it is crucial to first understand what sort of behavior is “engaging” in insurrection. Section II of this paper will provide a historical background for Section 3 of the Fourteenth Amendment. Section III will examine some proposed definitions for insurrection. Section IV will apply the best definition to Donald Trump’s actions on January 6th to determine whether he engaged in insurrection. Section V will identify some further areas for research.
+
+
+II. Historical Background for Section 3 of the Fourteenth Amendment
+The ratification of the Fourteenth Amendment took place under a unique historical context that clarifies the spirit of Section 3. The 39th Congress—which drafted, proposed, and approved the Fourteenth Amendment before turning the amendment over to the states for ratification—convened before the Civil War ended. [4] 
+The 38th Congress had a Republican majority, but it was not sizable; there were 32 Republicans and 18 Democrats in the Senate and 104 Republicans and 81 Democrats in the House of Representatives. [5] Thus, Republicans constituted 64% of the Senate and 56% of the House of Representatives. While the Republicans held a majority in Congress, they did not have the two-thirds majority necessary to propose an amendment to the Constitution until the 39th Congress. When the 39th Congress convened, there were 44 Republicans and 12 Democrats in the Senate and 155 Republicans and 46 Democrats in the House of Representatives. [6]  Percentage-wise, Republicans constituted 79% of the Senate and 77% of the House of Representatives. Thus, they had finally amassed enough party support in Congress to begin the urgent process of ending the Civil War and starting Reconstruction. 
+Moreover, the 39th Congress convened well before the Civil War was truly over. Robert E. Lee surrendered to Ulysses S. Grant in April of 1865, a month after the 39th Congress had already convened. However, fighting continued. By the time Confederate President Jefferson Davis was captured on May 10, 1865, the Civil War was virtually over, but small skirmishes continued until December of that year. President Andrew Johnson did not declare the end of the insurrection in all states except Texas until April 1866, and he did not declare the end of the insurrection in Texas until August 1866. [7] Therefore, the 39th Congress was operating under incredible uncertainty about the future of the Union. In addition to the charge of ending the Civil War, the 39th Congress had the tremendous task of legislating to ensure peace. Understanding the uncertainty that the 39th Congress was facing helps to elucidate the intent of the framers of the Fourteenth Amendment in drafting Section 3. It was not merely to end the Civil War and create peace and ensure equal rights for all; it was to create peace and ensure equal rights for all for posterity. Essentially, their task was to prevent the Civil War from reoccurring. 
+To do so, the 39th Congress had to ensure that the legislation they passed during their session would not be repealed after they left office. The biggest threat to this goal was the ability of former Confederate soldiers and commanders to run for Congress. If former Confederates were able to offset the constitutional majority that Republicans had gained (or if they gained a majority themselves), there was a strong possibility that contestation of the Thirteenth Amendment and Fourteenth Amendment by future sessions of Congress would ruin the peace that the 39th Congress had carefully created. As John A. Bingham (R-OH), who drafted the Fourteenth Amendment, said: 
+>>…in order to show the danger to the peace of the country, I beg leave to say further…among these returning prodigal rebels for whom we are invited…to take possession of the legislative power of this country, and accomplish by corrupt legislation what they failed to accomplish by arms. [8]
+Thus, the framers of the Fourteenth Amendment sought to secure peace for the future by restricting former Confederate soldiers—specifically, those former Confederates who broke their oaths by aiding the insurrection—from holding office and reigniting the discord of the Civil War.
+However, the 39th Congress also stated that this disqualification from office could be lifted by a two-thirds vote by Congress, which enabled the Amnesty Act of 1872 to lift bars to office six years after they were initiated [9]. This provision of the Fourteenth Amendment implies that the framers of the Fourteenth Amendment wanted to moderate the impact of Section 3. If the framers sought a broad and strict disqualification of officers who broke their oath by engaging in insurrection, they would not have included this provision, which enables Congress to pardon insurrections. In giving Congress this power, rather than the President, they ensured that the disqualification could be lifted but only with a supermajority in Congress. Thus, the framers of the Fourteenth Amendment balanced the public interest in ensuring peace for future generations against recognizing the severity of barring someone from holding public office. The charge of insurrection, and the subsequent consequences, are not to be taken lightly. 
+Any definition of “engaging in insurrection,” then, must be broad enough to convey the 39th Congress’s purpose in creating Section 3 of the Fourteenth Amendment while also being limited enough to prevent undue disqualification of citizens for merely expressing a viewpoint critical of the government. The next section of this paper will examine definitions of “engaging in insurrection” to determine which interpretation best aligns with the historical context surrounding Section 3 of the Fourteenth Amendment. 
+
+
+III. Examining Definitions of “Engaging in Insurrection”
+This article will consider three definitions of the phrase “engaging in insurrection”: the definition used by Reconstruction Era courts in Worthy v. Barrett and United States v. Powell and the definition proposed by the authors of “The Sweep and Force of Section Three” from the University of Pennsylvania Law Review. 
+In Worthy v. Barrett, the North Carolina Supreme Court defined “engaging in insurrection” as follows: 
+>>Voluntarily aiding the rebellion, by personal service or by contributions, other than charitable, of anything that was useful or necessary in the Confederate service. [10]
+The issue with this definition is that it is also vague. “Personal service” and “useful or necessary” actions are undefined, leading to the same problems of interpretation that the original text of Section 3 creates. By this definition, any sort of personal action that was even minimally helpful to an insurrection would be considered “engaging in insurrection.” The following hypothetical scenario illustrates the problematic scope of this definition. Imagine that Joe the Grocer is arranging his fruit stand in the morning. A group approaches Joe the Grocer and tells him that they plan on staging an insurrection, but they have not eaten in days and require food to perform. Joe the Grocer prepares fruits for the group and feeds them for free. Did Joe the Grocer engage in insurrection? 
+Joe the Grocer’s actions were instrumentally valuable to the group—after all, the group would not have been strong enough to stage an insurrection without sustenance from Joe the Grocer—but there is no indication that Joe the Grocer intended to participate in an insurrection merely by giving the group food. Yet the definition in Worthy v. Barrett would classify Joe the Grocer as having engaged in an insurrection. Joe the Grocer’s action was a contribution (of food) that was useful and necessary for the insurrection, but any reasonable person would hesitate to claim that Joe the Grocer engaged in insurrection because he indirectly aided it. That is, he helped the people committing insurrection, but it is not clear that he intended to rebel against the government himself. 
+A definition for a charge as weighty as insurrection should not implicate people whose contributions were nonviolent. Granted, Joe the Grocer is not a public officer who took an oath to uphold the laws of the United States, but the Joe the Grocer Case demonstrates the danger inherent in an overly broad interpretation of engaging in insurrection. Another Reconstruction Era court defined “engaging in insurrection” in a similarly vague manner. The district court in United States v. Powell defined “engaging in insurrection” as “voluntary effort to assist the Insurrection.” [11] This definition is even more unclear; the scope of the term “effort” could encompass a wide range of actions. If litigated, the question of how useful an action must be to be considered engaging in insurrection would likely come down to the judge’s discretion. But this yields too much opportunity for confusion and partisan bias; a definition for “engaging in insurrection” ought to avoid such confusion. 
+In “The Sweep and Force of Section 3,” William Baude and Michael Stokes Paulsen propose the following definition: 
+>>We believe one has “engaged” in insurrection or rebellion when one has been actively involved in the planning or execution of intentional acts of insurrection or rebellion, or when one has knowingly provided active, meaningful, voluntary, direct support for, material assistance to, or specific encouragement of such actions. Such planning, participation, support, assistance or encouragement may be in the form of either words or deeds, as long as the person who has “engaged in” such activities embraced the objectives of the insurrection or rebellion in question and did things that contributed in a meaningful way to advancing those objectives. [12] 
+This definition is much more precise. In contrast to the definitions used in Worthy v. Barrett and United States v. Powell, the definition that Baude and Paulsen propose adequately incorporates the spirit of Section 3 while clearly defining the sorts of actions that qualify as “engaging in insurrection.” Baude and Paulsen’s definition is broad enough to encompass a range of activities, as indicated by the use of the conjunction “or” in lines 2, 3, and 4 of the definition. [13] The United States has an interest in keeping a broad definition of “engaging” in insurrection to encapsulate the vast range of activities that could materially support an insurrection. A broad definition ensures that anyone who broke their oath by meaningfully aiding in planning or executing an insurrection cannot hold office again. The voluntary violation of their constitutional duties demonstrates an opposition to the authority of the government and demonstrates that they cannot be trusted to hold office. At the same time, Blaude and Paulsen’s definition only implicates people who meaningfully contribute to the objectives of insurrection and perform actions that demonstrate the intent to do so. [14] This distinction separates genuine insurrectionists from people who did things that were useful to the insurrection, but who did not embrace its objectives or seek to further those objectives—like Joe the Grocer. Having established the merits of the definition proposed by Blaude and Paulsen, the next section of this paper will apply this definition to Donald Trump’s actions on January 6, 2021, to determine if he engaged in insurrection. 
+
+
+IV. Examining the Events of January 6, 2021 with a New Definition 
+In analyzing whether former President Donald Trump engaged in insurrection, this paper will evaluate whether Trump’s actions met both conditions of this definition. The first condition is that one “has been actively involved in the planning or execution of intentional acts of insurrection or rebellion, or when one has knowingly provided active, meaningful, voluntary, direct support for, material assistance to, or specific encouragement of such actions.” [15] The second condition is that one’s actions “embraced the objectives of the insurrection or rebellion in question and did things that contributed in a meaningful way to advancing those objectives.” [16]
+Donald Trump’s actions on January 6th meet the first condition. His words and rhetoric on January 6th constitute active, meaningful, and voluntary encouragement of the insurrection. There are multiple instances where Trump’s words stoked the mob and encouraged their actions, but one sticks out: his speech on January 6th. In his speech, Trump said, “And we fight. We fight like hell. And if you don’t fight like hell, you’re not going to have a country anymore.” [17] Some have argued that this statement was simply rhetorical, which absolves Trump of responsibility for inciting an insurrection. [18] However, this statement was not merely rhetorical. According to testimony by a former White House aide, Cassidy Hutchinson, Trump knew that his crowd of supporters on January 6th was armed. [19] With this knowledge, using inflammatory rhetoric with the specific phrase “fight like hell” amounts to a clear instruction to a sycophantic crowd to march to the Capitol and use their weapons and mass to “stop the steal.” This instruction demonstrates specific encouragement of the mob’s violent, reactionary behavior. Moreover, the speech was riddled with claims that the 2020 election was fraudulent and that Trump and his supporters must work to overturn the “fraudulent” election. At one point, Trump said, “When you catch somebody in a fraud, you’re allowed to go by very different rules.” [20] This statement, with the knowledge that Trump had of the crowd’s vitriol and weaponry, essentially validates their plans. It is a statement that legitimized the mob’s goal of forcibly overtaking the Capitol, since it acted as a signal to Trump’s supporters that they were allowed to unlawfully attack the Capitol because they could play by different rules. Thus, Donald Trump’s words on January 6th qualify as active, meaningful, and voluntary encouragement of the insurrection. 
+Donald Trump’s words embraced the objectives of the insurrection and contributed in a meaningful way to advancing those objectives. The objective of the insurrection was to prevent the election results from being certified by Congress. In his speech to the crowd, Trump used the phrase “stop the steal” twice, the phrase “take back our country” twice, the words “fraudulent” or “fraud” twenty-two times, and the word “illegal” in reference to the election twenty-three times. [21] The diction in Trump’s speech is aimed at a clear objective: establishing that the election was stolen to motivate the mob into attacking the Capitol because he believed that Republicans in Congress and Mike Pence would not follow his instructions to decertify the election results. Thus, Trump’s words embraced the objectives of the insurrection. His words—in the speech and before January 6th—also contributed meaningfully to the advancement of that objective. Ed Badalian, a January 6th insurrectionist who was found guilty of conspiracy to commit an offense against the United States, wrote in a chat named “Patriots 45 MAGA Gang” that “Our duly elected leader has called his marching orders, we gotta show up,” on December 21st. [22] Ed Badalian used a stun gun on the neck of a Washington, D.C., police officer. [23] The chatroom message indicates that—at least for Badalian—Trump’s words encouraged unlawful and violent behavior towards officials of the government on January 6th. Another defendant, Deborah Sandoval, wrote in her group chat, “Hey, we’re going back to Washington January 6. Trump has called all patriots. If the electors don’t elect, we will be forced into civil war.” [24] An analysis by Citizen for Responsibility in Washington (CREW) indicates that of the 210 people charged for crimes committed on January 6th who claimed to be answering Trump’s call to action, 120 cited Trump’s remarks as their reason for storming the Capitol. [25] The fact that the crowd dispersed after Donald Trump tweeted at them to go home is the most damning indication that Trump’s words spurred the mob. [26] If Trump had not used inflammatory language before and during January 6th to goad the crowd into attacking the Capitol, the January 6th insurrection would not have happened. Undeniably, Donald Trump’s words embraced the objectives of the insurrection and contributed in a meaningful way to advancing those objectives. 
+
+
+V. Conclusion
+This article has focused on the phrase “engaging in insurrection” to determine whether Donald Trump is barred from office by Section 3 of the Fourteenth Amendment. To answer this question, it has analyzed the historical context of Section 3 to glean its purpose, examined some definitions of “engaging in insurrection,” and analyzed the words that Donald Trump used with his supporters on and leading up to January 6th. However, this synthesis is by no means a complete overview of Trump’s eligibility for office according to Section 3. Several questions—such as what definition of “engaging in insurrection” should be used legally, who should create this definition, how Section 3 should be enforced, and whether the office of President is implicated by Section 3—remain unanswered. In the interest of brevity, there are definitions for insurrection used in case law and textbooks that this paper could not address, tweets and statements that the former president made that could not be analyzed, and alternative perspectives on whether Trump should be excluded from the ballot for only his words. A complete, informed perspective on the issue requires a nuanced understanding of all of these topics, and the author of this paper encourages all readers to conduct further research. 
+
+
+Works Cited
+Naylor, Brian. “Read Trump’s Jan. 6 Speech, a Key Part of Impeachment Trial.” NPR, February 10, 2021. https://www.npr.org/2021/02/10/966396848/read-trumps-jan-6-speech-a-key-part-of-impeachment-trial.
+
+
+Ibid.
+
+
+U.S. Const. amend. XIV, § 3
+
+
+Aynes, Richard L. (2009) "The 39th Congress (1865-1867) and the 14th Amendment: Some Preliminary Perspectives," Akron Law Review: Vol. 42: Iss. 4, Article 2.
+https://ideaexchange.uakron.edu/akronlawreview/vol42/iss4/2
+
+
+Ibid.
+
+
+Ibid.
+
+
+Ibid.
+
+
+Bingham, John Armor, and Miscellaneous Pamphlet Collection. One country, one Constitution, and one people. Speech of Hon. John A. Bingham, of Ohio, in the House of representatives, in support of the proposed amendment to enforce the bill of rights. [Washington, Printed at the Congressional globe office, 1866] Pdf. https://www.loc.gov/item/17030815/.
+
+
+Amend. XIV, § 3
+
+
+Worthy v. Barrett and Others, 63 N.C. 199 (N.C. 1869)
+
+
+United States v. Powell, 27 F. Cas. 605, 607 (C.C.D. N.C 1871)
+
+
+Baude, William and Paulsen, Michael Stokes, The Sweep and Force of Section Three (February 19, 2024). University of Pennsylvania Law Review, Vol. 172, p. 605, Available at SSRN: https://ssrn.com/abstract=4532751. 
+
+
+Ibid.
+
+
+Ibid. 
+
+
+Ibid. 
+
+
+Ibid.
+
+
+Naylor. “Read Trump’s Jan. 6 Speech.”
+
+
+Wax, Gavin M. and National Constitutional Law Union Inc., Brief for SCOTUS as Amicus Curiae, p. 9, Trump v. Anderson, 601 U.S. __ (2024) 
+
+
+Allen, Jonathan. "'They're Not Here to Hurt Me': Former Aide Says Trump Knew Jan. 6 Crowd Was Armed." NBC News, June 28, 2022. https://www.nbcnews.com/politics/congress/jan-6-panel-looks-trump-white-house-cassidy-hutchinson-testimony-rcna35550.
+
+
+Naylor. “Read Trump’s Jan. 6 Speech.”
+
+
+Naylor. “Read Trump’s Jan. 6 Speech.”
+
+
+Reilly, Ryan J. "Jan. 6 Rioter Who Said He Was following Trump's 'marching Orders' and Wanted to Arrest Biden and Pelosi Is Found Guilty." NBC News, April 4, 2023. https://www.nbcnews.com/politics/justice-department/jan-6-defendant-said-followed-trumps-marching-orders-wanted-arrest-bid-rcna77947.
+
+
+Ibid.
+
+
+Kauffman, Clark. "Mother-and-son Duo Who Rioted at U.S. Capitol to Be Sentenced in April." NBC News, December 22, 2022. https://iowacapitaldispatch.com/2022/12/22/mother-and-son-duo-who-rioted-at-u-s-capitol-to-be-sentenced-in-april/.
+
+
+Citizens for Responsibility and Ethics in Washington, . "“Trump Has Called All Patriots”: 210 Jan. 6th Criminal Defendants Say Trump Incited Them." Citizens for Responsibility and Ethics in Washington (CREW), February 14, 2024. https://www.citizensforethics.org/reports-investigations/crew-reports/trump-incited-january-6-defendants/.
+
+
+Ibid.
